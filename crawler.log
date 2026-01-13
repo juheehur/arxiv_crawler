@@ -1,0 +1,67 @@
+2026-01-13 08:57:11,254 - INFO - Starting crawl of 3 papers with 15s delay between requests
+2026-01-13 08:57:11,254 - INFO - [1/3] Crawling: https://arxiv.org/abs/2301.00001
+2026-01-13 08:57:11,310 - INFO - Successfully crawled: 2301.00001 - NFTrig
+2026-01-13 08:57:25,891 - INFO - Starting crawl of 3 papers with 15s delay between requests
+2026-01-13 08:57:25,891 - INFO - [1/3] Crawling: https://arxiv.org/abs/2301.00001
+2026-01-13 08:57:25,944 - INFO - Successfully crawled: 2301.00001 - NFTrig
+2026-01-13 08:57:40,948 - INFO - [2/3] Crawling: https://arxiv.org/abs/2301.00002
+2026-01-13 08:57:41,372 - INFO - Successfully crawled: 2301.00002 - Evaluating Alternative Glyph Design for Showing La
+2026-01-13 08:57:56,378 - INFO - [3/3] Crawling: https://arxiv.org/abs/2301.00003
+2026-01-13 08:57:57,387 - INFO - Successfully crawled: 2301.00003 - Emotion in Cognitive Architecture: Emergent Proper
+2026-01-13 08:57:57,387 - INFO - Crawl completed: 3/3 successful, 0 failed
+2026-01-13 09:00:09,612 - INFO - Fetching category page: https://arxiv.org/list/cs.AI/recent
+2026-01-13 09:00:09,693 - INFO - Found 50 dt tags
+2026-01-13 09:00:09,694 - INFO - Collected 50 unique arXiv IDs
+2026-01-13 09:02:28,919 - INFO - Fetching category page: https://arxiv.org/list/cs.AI/recent
+2026-01-13 09:02:29,054 - INFO - Found 50 dt tags
+2026-01-13 09:02:29,054 - INFO - Collected 50 unique arXiv IDs
+2026-01-13 09:02:29,055 - INFO - Starting crawl of 3 papers with 15s delay between requests
+2026-01-13 09:02:29,055 - INFO - [1/3] Crawling: https://arxiv.org/abs/2601.05991
+2026-01-13 09:02:30,058 - INFO - Successfully crawled: 2601.05991 - Open-Vocabulary 3D Instruction Ambiguity Detection
+2026-01-13 09:02:45,063 - INFO - [2/3] Crawling: https://arxiv.org/abs/2601.05899
+2026-01-13 09:02:45,134 - INFO - Successfully crawled: 2601.05899 - TowerMind: A Tower Defence Game Learning Environme
+2026-01-13 09:03:00,135 - INFO - [3/3] Crawling: https://arxiv.org/abs/2601.05890
+2026-01-13 09:03:00,542 - INFO - Successfully crawled: 2601.05890 - StackPlanner: A Centralized Hierarchical Multi-Age
+2026-01-13 09:03:00,542 - INFO - Crawl completed: 3/3 successful, 0 failed
+2026-01-13 09:03:00,547 - INFO - Main crawl completed: 3/3 successful, saved to arxiv_papers.csv
+2026-01-13 09:06:31,006 - INFO - Fetching category page: https://arxiv.org/list/cs.AI/recent
+2026-01-13 09:06:31,086 - INFO - Found 50 dt tags
+2026-01-13 09:06:31,086 - INFO - Collected 50 unique arXiv IDs
+2026-01-13 09:06:31,087 - INFO - Skipping 2 duplicate papers out of 3
+2026-01-13 09:06:31,087 - INFO - Starting crawl of 1 papers with 15s delay between requests
+2026-01-13 09:06:31,087 - INFO - [1/1] Crawling: https://arxiv.org/abs/2601.05890
+2026-01-13 09:06:31,142 - INFO - Successfully crawled: 2601.05890 - StackPlanner: A Centralized Hierarchical Multi-Age
+2026-01-13 09:06:31,142 - INFO - Crawl completed: 1/1 successful, 0 failed
+2026-01-13 09:06:31,145 - INFO - Main crawl completed: 1/1 new papers successful, 2 skipped, 4 total in CSV
+2026-01-13 09:09:29,220 - INFO - Fetching category page: https://arxiv.org/list/cs.AI/recent
+2026-01-13 09:09:29,348 - INFO - Found 50 dt tags
+2026-01-13 09:09:29,348 - INFO - Collected 50 unique arXiv IDs
+2026-01-13 09:09:29,349 - INFO - Skipping 2 duplicate papers out of 10
+2026-01-13 09:09:29,349 - INFO - Starting crawl of 8 papers with 15s delay between requests
+2026-01-13 09:09:29,349 - INFO - [1/8] Crawling: https://arxiv.org/abs/2601.05890
+2026-01-13 09:09:29,409 - INFO - Successfully crawled: 2601.05890 - StackPlanner: A Centralized Hierarchical Multi-Age
+2026-01-13 09:09:44,414 - INFO - [2/8] Crawling: https://arxiv.org/abs/2601.05787
+2026-01-13 09:09:44,844 - INFO - Successfully crawled: 2601.05787 - From Off-Policy to On-Policy: Enhancing GUI Agents
+2026-01-13 09:09:59,846 - INFO - [3/8] Crawling: https://arxiv.org/abs/2601.05746
+2026-01-13 09:10:00,210 - INFO - Successfully crawled: 2601.05746 - DynaDebate: Breaking Homogeneity in Multi-Agent De
+2026-01-13 09:10:15,214 - INFO - [4/8] Crawling: https://arxiv.org/abs/2601.05739
+2026-01-13 09:10:15,555 - INFO - Successfully crawled: 2601.05739 - PII-VisBench: Evaluating Personally Identifiable I
+2026-01-13 09:10:30,558 - INFO - [5/8] Crawling: https://arxiv.org/abs/2601.05724
+2026-01-13 09:10:30,916 - INFO - Successfully crawled: 2601.05724 - Overcoming Joint Intractability with Lossless Hier
+2026-01-13 09:10:45,921 - INFO - [6/8] Crawling: https://arxiv.org/abs/2601.05705
+2026-01-13 09:10:46,322 - INFO - Successfully crawled: 2601.05705 - Logic-Parametric Neuro-Symbolic NLI: Controlling L
+2026-01-13 09:11:01,327 - INFO - [7/8] Crawling: https://arxiv.org/abs/2601.05693
+2026-01-13 09:11:01,400 - INFO - Successfully crawled: 2601.05693 - Circular Reasoning: Understanding Self-Reinforcing
+2026-01-13 09:11:16,405 - INFO - [8/8] Crawling: https://arxiv.org/abs/2601.05675
+2026-01-13 09:11:17,114 - INFO - Successfully crawled: 2601.05675 - CHDP: Cooperative Hybrid Diffusion Policies for Re
+2026-01-13 09:11:17,114 - INFO - Crawl completed: 8/8 successful, 0 failed
+2026-01-13 09:11:17,117 - INFO - Main crawl completed: 8/8 new papers successful, 2 skipped, 12 total in CSV
+2026-01-13 10:23:34,800 - INFO - Fetching category page: https://arxiv.org/list/cs.AI/recent
+2026-01-13 10:23:35,189 - INFO - Found 50 dt tags
+2026-01-13 10:23:35,189 - INFO - Collected 50 unique arXiv IDs
+2026-01-13 10:23:35,190 - INFO - Skipping 9 duplicate papers out of 10
+2026-01-13 10:23:35,190 - INFO - Starting crawl of 1 papers with 15s delay between requests
+2026-01-13 10:23:35,190 - INFO - [1/1] Crawling: https://arxiv.org/abs/2601.05890
+2026-01-13 10:23:35,269 - INFO - Successfully crawled: 2601.05890 - StackPlanner: A Centralized Hierarchical Multi-Age
+2026-01-13 10:23:35,269 - INFO - Crawl completed: 1/1 successful, 0 failed
+2026-01-13 10:23:35,274 - INFO - Main crawl completed: 1/1 new papers successful, 9 skipped, 13 total in CSV
